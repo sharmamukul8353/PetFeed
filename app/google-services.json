@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988653200656",
+    "firebase_url": "https://pet-feed-43490.firebaseio.com",
+    "project_id": "pet-feed-43490",
+    "storage_bucket": "pet-feed-43490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988653200656:android:cb4db86f79f3c122c83195",
+        "android_client_info": {
+          "package_name": "com.recipes.petfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988653200656-8fdqsukn14equ5an7394l508pbcpao8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recipes.petfeed",
+            "certificate_hash": "3174400d466ed5be3d282a449cefe10e8635b2fb"
+          }
+        },
+        {
+          "client_id": "988653200656-26k36ifm3fn0c6gstdg28co292ndd4eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp9fkCWqzYENaVr2hDjUKzjpmjRtpnGLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988653200656-26k36ifm3fn0c6gstdg28co292ndd4eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
